@@ -1,0 +1,6 @@
+{
+  "name": "The Earth Jukebox",
+  "description": "Interactive NASA Earth science observatory pairing planetary visualizations with real-time Web Audio sonifications and AI audio narratives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
